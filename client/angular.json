@@ -10,6 +10,10 @@
           "skipTests": true,
           "path": "src"
         },
+        "@schematics/angular:interceptor": {
+          "skipTests": true,
+          "path": "src/core/interceptors"
+        },
         "@schematics/angular:guard": {
           "skipTests": true,
           "path": "src/core/guards"
